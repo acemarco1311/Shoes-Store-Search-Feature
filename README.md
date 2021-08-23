@@ -20,6 +20,7 @@ Files you need to care for the search algorithm:
 - public/javascripts/page.js: Front-end, interact with users
 - routes/index.js: route handler in the server 
 - app.js: Your setup (my setup only work on my computer, you need to modify this file). 
+- database_info: how you will design your relational database.
 
 Check out the Demo Video for more information: https://www.youtube.com/watch?v=TNmvrnCt0DU
 
