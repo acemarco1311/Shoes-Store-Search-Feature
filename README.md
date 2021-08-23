@@ -15,5 +15,11 @@ Installation:
 - Modify app.js file based on your database implementation and computer setup. 
 --> Run your server. 
 
+Files you need to care for the search algorithm: 
+- public/index.html: webpage
+- public/javascripts/page.js: Front-end, interact with users
+- routes/index.js: route handler in the server 
+- app.js: Your setup (my setup only work on my computer, you need to modify this file). 
+
 Check out the Demo Video for more information:
 
